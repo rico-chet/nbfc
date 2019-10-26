@@ -51,7 +51,7 @@
   <RegisterWriteConfigurations>
     <RegisterWriteConfiguration>
       <WriteMode>Set</WriteMode>
-      <WriteOccasion>OnInitialization</WriteOccasion>
+      <WriteOccasion>OnWriteFanSpeed</WriteOccasion>
       <Register>34</Register>
       <Value>1</Value>
       <ResetRequired>true</ResetRequired>
