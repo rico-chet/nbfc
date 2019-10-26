@@ -38,7 +38,12 @@
         <FanSpeedPercentageOverride>
           <FanSpeedPercentage>0</FanSpeedPercentage>
           <FanSpeedValue>255</FanSpeedValue>
-          <TargetOperation>ReadWrite</TargetOperation>
+          <TargetOperation>Read</TargetOperation>
+        </FanSpeedPercentageOverride>
+        <FanSpeedPercentageOverride>
+          <FanSpeedPercentage>0</FanSpeedPercentage>
+          <FanSpeedValue>254</FanSpeedValue>
+          <TargetOperation>Write</TargetOperation>
         </FanSpeedPercentageOverride>
       </FanSpeedPercentageOverrides>
     </FanConfiguration>
